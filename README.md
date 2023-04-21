@@ -3,6 +3,7 @@
 Некоторые куски PHP-кода в файлах InstrumentsRepository и Repository.
 
 different/ArrayLimitClass.php - ограничение массива ( SplFixedArray::getSize() ).
+
 different/getPrivateProperty.php - достаём private property через рефлексию (php).
 
 https://admiral3stars.ru | Программа финансового учёта, использующая авторские алгоритмы работы с биржевыми инструментами.
