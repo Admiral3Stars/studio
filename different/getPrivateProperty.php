@@ -1,7 +1,7 @@
 <?php
 class AnyClass {
    
-	private $anyProperty = 'Any text';
+	private string $anyProperty = 'Any text';
    
 }
 
