@@ -8,7 +8,7 @@ class AnyClass {
 // Создаём экземпляр класса
 $anyObject = new AnyClass;
 
-// Получаем информацию о свойстве anyProperty
+// Получаем св-во anyProperty
 $reflectedProperty = new ReflectionProperty(AnyClass::class, 'anyProperty');
 
 // Делаем свойство "anyProperty" доступным
